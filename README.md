@@ -2,7 +2,7 @@
 
 # CIT 281
 
-## Here is my exploration of web APIs, Github project pages, and image search with url's. God Bless.
+## Here is my exploration of web APIs, Github project pages, and image search with url's
 
 
 [Hello-World!](https://github.com/breese95/hello-world.git)
